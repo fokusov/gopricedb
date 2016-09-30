@@ -20,4 +20,4 @@ ledger -f journal.dat bal -X USD --price-db prices.dat
 go build
 ```
 
-или скачать готовый бинарник gopricedb.exe если нет возможности установить Go.
+или скачать готовый бинарник gopricedb.exe если нет возможности установить Go [в релизах](https://github.com/fokusov/gopricedb/releases).
